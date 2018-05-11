@@ -1,0 +1,14 @@
+{
+  "name": "random-quote-generator",
+  "version": "1.0.0",
+  "description": "A random quote generator.",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rohit Sarkar",
+  "license": "ISC",
+  "devDependencies": {
+    "http-server": "^0.11.1"
+  }
+}
