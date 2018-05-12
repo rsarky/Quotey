@@ -1,7 +1,20 @@
-.container {
-    margin: auto;
+body {
+    display: flex;
+    min-height: 100vh;
+    margin:0;
+}
+
+.box {
+    margin:auto;
     border: 2px solid black;
     background: yellow;
-    height: 400px;
-    width: 500px;
+    height: 70vh;
+    width: 50vw;
+}
+
+/* .text-area {
+    padding: 10%;
+} */
+.container {
+    padding: 10%;
 }
