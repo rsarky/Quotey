@@ -1,4 +1,4 @@
-const URL = 'http://api.forismatic.com/api/1.0/?method=getQuote&key=457653&format=jsonp&lang=en&jsonp=parseQuote'
+const URL = 'https://api.forismatic.com/api/1.0/?method=getQuote&key=457653&format=jsonp&lang=en&jsonp=parseQuote'
 const imageURL = 'https://api.unsplash.com/photos/random/?client_id=b6f0ed4cca26cd97215c4dcee9b14f4a584bbf5d52aaf8cf6b78a302b90fadd1'
 $(document).ready(() => {
     initialize()
